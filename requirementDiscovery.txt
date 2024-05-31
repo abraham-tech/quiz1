@@ -1,0 +1,7 @@
+The application should keep track of contacts. 
+The application should allow the storage of contact information, first name, last name, company, job title, phone numbers, and email addresses. 
+The application should allow the storage and labeling of multiple phone numbers.
+The application should allow the storage and labeling of multiple email addresses. 
+The user should able to search through the contacts.
+The user should able to add new contacts, update existing contacts, and delete old contact information. 
+The application should allow the merging of duplicated contacts.  
